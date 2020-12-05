@@ -1,5 +1,7 @@
 # rustywiki
 
+![](https://img.shields.io/badge/frontend-Vue-green) ![](https://img.shields.io/badge/backend-Actix-red)
+
 러스트 기반의 위키위키 사이트 프로젝트
 
 ### 완성되지 않음
